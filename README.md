@@ -66,17 +66,7 @@ Building AI-powered applications and scalable web solutions.
 - Interactive analytics dashboard
 - Real-time insights and visualization
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
 
 ## 🔥 Contribution Streak
 
@@ -92,11 +82,11 @@ Building AI-powered applications and scalable web solutions.
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/your-profile">
+<a href="https://www.linkedin.com/in/piyush-chauhan-881b97214/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:learnerpiyush2001@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 </p>
