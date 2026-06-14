@@ -86,9 +86,8 @@ Building AI-powered applications and scalable web solutions.
 
 ## 🏆 Coding Profiles
 
-- LeetCode: https://leetcode.com/your-profile
-- Codeforces: https://codeforces.com/profile/your-profile
-- HackerRank: https://www.hackerrank.com/your-profile
+- LeetCode: https://leetcode.com/u/Coder_Max2001/
+
 
 ## 📫 Connect With Me
 
